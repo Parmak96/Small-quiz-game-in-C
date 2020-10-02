@@ -1,0 +1,9 @@
+﻿  functions.c
+c:\users\parma\onedrive\dokumente\projekte\mainproject\mainproject\mainproject\functions.c(93): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\parma\onedrive\dokumente\projekte\mainproject\mainproject\mainproject\functions.c(102): warning C4013: '_getch' undefined; assuming extern returning int
+c:\users\parma\onedrive\dokumente\projekte\mainproject\mainproject\mainproject\functions.c(117): warning C4098: 'joker': 'void' function returning a value
+c:\users\parma\onedrive\dokumente\projekte\mainproject\mainproject\mainproject\functions.c(133): warning C4098: 'joker': 'void' function returning a value
+c:\users\parma\onedrive\dokumente\projekte\mainproject\mainproject\mainproject\functions.c(147): warning C4098: 'joker': 'void' function returning a value
+c:\users\parma\onedrive\dokumente\projekte\mainproject\mainproject\mainproject\functions.c(165): warning C4098: 'joker': 'void' function returning a value
+c:\users\parma\onedrive\dokumente\projekte\mainproject\mainproject\mainproject\functions.c(179): warning C4098: 'joker': 'void' function returning a value
+  MainProject.vcxproj -> C:\Users\parma\OneDrive\Dokumente\Projekte\Mainproject\MainProject\Debug\MainProject.exe
